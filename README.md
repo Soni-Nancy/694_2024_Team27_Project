@@ -1,2 +1,4 @@
 # 694_2024_Team27_Project
 Final Project for DBMS Team 27 - Twitter Search Application
+
+This project aims to design and implement a search application tailored for a tweet store database. The application allows users to search tweets based on string, hashtag, and user, while also providing drill-down features for deeper exploration of search results. The system employs a combination of MongoDB and PostgreSQL databases for efficient storage and retrieval of tweet and user data. The architecture, functionality, and implementation details of the search application are discussed, along with its key features and performance considerations. The project will also incorporate a user interface that allows users to input their search queries and browse through the search results. The proposed search engine could be useful for researchers, marketers, journalists, and anyone who wants to search through a specific dataset of tweets for information on a particular topic or trend.
